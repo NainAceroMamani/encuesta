@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Encuesta</string>
+    <string name="facebook_app_id">623369038302682</string>
+    <string name="fb_login_protocol_scheme">fb623369038302682</string>
+    <string name="txt_insertar_datos">Para continuar inserta todos los campos</string>
+    <string name="txt_email_invalid">Insertaste todos los campos pero el correo no es valido</string>
+    <string name="txt_password_invalid">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="pregunta01">1. Entrega el sílabo el primer día de clase y desarrolla todas las temáticas planteadas en el sílabo. </string>
+    <string name="pregunta02">2. Muestra un buen conocimiento del curso que imparte.</string>
+    <string name="pregunta03">3. Su expresión oral es clara y precisa.</string>
+    <string name="pregunta04">4. Proporciona información (bibliografía) sobre la actividad académica de fácil acceso y utilidad.</string>
+    <string name="pregunta05">5. Propone el desarrollo de articulos cientificos, ensayos e informes de análisis como actividades extras a clases para reforzar el aprendizaje.</string>
+    <string name="pregunta06">6. Utiliza adecuadamente los recursos audiovisuales para facilitar el aprendizaje.</string>
+    <string name="pregunta07">7. Fomenta la diversidad de opiniones, posiciones, y concepciones en los procesos formativos.</string>
+    <string name="pregunta08">8. Demuestra disciplina y responsabilidad en su labor como docente.</string>
+
+    <string name="resp1">A) Siempre</string>
+    <string name="resp2">B) Casi siempre</string>
+    <string name="resp3">C) Frecuentemente</string>
+    <string name="resp4">D) Algunas veces</string>
+    <string name="resp5">E) Casi nunca</string>
+</resources>

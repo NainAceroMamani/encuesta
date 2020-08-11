@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton android:id="@+id/Preg02_resp1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resp1"
+            android:onClick="onRadioButtonClickedPregun02"/>
+        <RadioButton android:id="@+id/Preg02_resp2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resp2"
+            android:onClick="onRadioButtonClickedPregun02"/>
+        <RadioButton android:id="@+id/Preg02_resp3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resp3"
+            android:onClick="onRadioButtonClickedPregun02"/>
+        <RadioButton android:id="@+id/Preg02_resp4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resp4"
+            android:onClick="onRadioButtonClickedPregun02"/>
+        <RadioButton android:id="@+id/Preg02_resp5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resp5"
+            android:onClick="onRadioButtonClickedPregun02"/>
+
+    </RadioGroup>
+
+</LinearLayout>
